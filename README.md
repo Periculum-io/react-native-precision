@@ -87,15 +87,15 @@ You can send this overview key back to your backend server. Your backend server 
 &nbsp;
 &nbsp;
 
-## Updating an existing mobile V2 Analytics
+## Updating an existing mobile analytics
 
-If you have a previously generated mobile v2 overview key, you can update it with a new SDK data. to do this make the following call:
+If you have a previously generated mobile overview key, you can update it with a new SDK data. to do this make the following call:
 
 Example:
 
 ```javascript
 import React from 'react';
-import {patchV2} from 'react-native-periculum';
+import {patchV2} from 'react-native-precision';
 
 patchV2(
   publicKey,
