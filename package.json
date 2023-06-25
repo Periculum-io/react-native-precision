@@ -1,6 +1,6 @@
 {
   "name": "react-native-precision",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "description": "Precision React SDK",
   "main": "index.js",
   "scripts": {
