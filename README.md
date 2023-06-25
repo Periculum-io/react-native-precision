@@ -1,7 +1,6 @@
 # react-native-precision
 
-Precision library is a powerful & easy to use credit score library for Android.
-The library gives you credit score information for your customer. No stress :)
+Precision library is a powerful & easy to use data enrichment tool for customer profiling.
 
 ## Badges
 
