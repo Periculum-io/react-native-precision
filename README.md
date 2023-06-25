@@ -4,7 +4,7 @@ Precision library is a powerful & easy to use data enrichment tool for customer 
 
 ## Badges
 
-[![npm version](https://badge.fury.io/js/react-native-precision.svg)](https://badge.fury.io/js/react-native-precision)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Installation
 
